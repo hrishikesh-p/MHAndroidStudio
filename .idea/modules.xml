@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MobihelpDemo.iml" filepath="$PROJECT_DIR$/MobihelpDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobihelpDemo/mobihelpDemo.iml" filepath="$PROJECT_DIR$/mobihelpDemo/mobihelpDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobihelp_sdk_android_v1.4/mobihelp_sdk_android_v1.4.iml" filepath="$PROJECT_DIR$/mobihelp_sdk_android_v1.4/mobihelp_sdk_android_v1.4.iml" />
+    </modules>
+  </component>
+</project>
